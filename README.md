@@ -47,7 +47,7 @@ Acknowledgements
 
 
 
-In collaboratin with
+In collaboration with
 --
 
         [1] Institut Utinam, CNRS UMR 6213, Universit\'e de Franche-Comt\'e, OSU THETA Franche-Comt\'e-Bourgogne, Observatoire de Besan\c{c}on, BP 1615, 25010 Besan\c{c}on Cedex, France.
