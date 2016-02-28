@@ -15,13 +15,7 @@ A peculiar Apogee star
 --
 Near-infrared spectrum observed by The Apache Point Observatory Galactic Evolution Experiment (APOGEE), one of four Sloan Digital Sky Survey-III (SDSS-III) experiments, and originally catalogued by 2MASS.
 
-Figure 1
-![Apogee](https://github.com/Fernandez-Trincado/SDSS-IV-Project0184/blob/master/Discovery_2016.png "Apogee")
-
-Figure 2
 ![Apogee](https://github.com/Fernandez-Trincado/SDSS-IV-Project0184/blob/master/Apogee.png "Apogee")
-
-
 
 Abstract
 ---
