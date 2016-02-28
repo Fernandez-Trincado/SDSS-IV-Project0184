@@ -4,24 +4,7 @@ THE DISCOVERY OF AN ANOMALOUS GIANT STAR IN THE GALACTIC DISK WITH A SECONDARY P
 Authors
 --
 
-José G. Fernadez-Trincado, Annie C. Robin, E. Moreno, Ricardo P. Schiavon, Ana Elia Garcia Pérez, Katherine Vieira, Katia Cunha, Olga Zamora, C. Sneden, Jennifer A. Johnson, Matthew Shetrone, Gail Zasowski, Anibal Garcia-Hernandez, Luis Alberto Martínez Medina, Angeles Pérez-Villegas, Octavio Valenzuela, Barbara Pichardo, Céline Reylé, Andrés Meza, Jennifer Sobeck, + APOGEE COLLABORATION 
-
-        [1] Institut Utinam, CNRS UMR 6213, Universit\'e de Franche-Comt\'e, OSU THETA Franche-Comt\'e-Bourgogne, Observatoire de Besan\c{c}on, BP 1615, 25010 Besan\c{c}on Cedex, France.
-        [2] Instituto de Astronom\'ia, Universidad Nacional Aut\'onoma de M\'exico, Apdo. Postal 70264, M\'exico D.F., 04510, Mexico.
-        [3] Astrophysics Research Institute, Liverpool John Moores University, 146 Brownlow Hill, Liverpool, L3 5RF, United Kingdom.
-        [4] Department of Astronomy, University of Virginia, P.O. Box 400325, Charlottesville, VA 22904-4325, USA.
-        [5] Centro de Investigaciones de Astronom\'ia, AP 264, M\'erida 5101-A, Venezuela.
-        [6] Dept. of Physics and Astronomy, Johns Hopkins University, Baltimore, MD 21210, USA.
-        [7] Instituto de Astrof\'isica de Canarias, E-38205 La Laguna, Tenerife, Spain.
-        [8] Departamento de Astrof\'isica, Universidad de La Laguna (ULL), E-38206 La Laguna, Tenerife, Spain. 
-        [9] Department of Astronomy and McDonald Observatory, The University of Texas, Austin, TX 78712, USA.
-        [10] Department of Astronomy, The Ohio State University, Columbus, OH 43210, USA.
-        [11] Department of Astronomy, University of Texas at Austin, Austin, TX 78712, USA.
-        [12] Department of Physics and Astronomy, Johns Hopkins University, Baltimore, MD 21218, USA.
-        [13] Max-Planck-Instit\"ut f\"ur Extraterrestrische Physik, Gie\ss enbachstra\ss e, 85748 Garching, Germany.
-        [14] Departamento de Ciencias Fisicas, Universidad Andres Bello, Sazie 2212, Santiago, Chile.
-        [15] Department of Astronomy, University of Virginia, Charlottesville, VA 22904-4325, USA.
-
+José G. Fernadez-Trincado, Annie C. Robin, E. Moreno, Ricardo P. Schiavon, Ana Elia Garcia Pérez, Katherine Vieira, Katia Cunha, Olga Zamora, C. Sneden, Jennifer A. Johnson, Matthew Shetrone, Gail Zasowski, Anibal Garcia-Hernandez, Luis Alberto Martínez Medina, Angeles Pérez-Villegas, Octavio Valenzuela, Barbara Pichardo, Céline Reylé, Andrés Meza, Jennifer Sobeck, + APOGEE COLLABORATION. `(Affiliations can be found after the acknowledgements)`
 
 Status
 --
@@ -63,4 +46,21 @@ Acknowledgements
     SDSS-III is managed by the Astrophysical Research Consortium for the Participating Institutions of the SDSS-III Collaboration including the University of Arizona, the Brazilian Participation Group, Brookhaven National Laboratory, Carnegie Mellon University, University of Florida, the French Participation Group, the German Participation Group, Harvard University, the Instituto de Astrofisica de Canarias, the Michigan State/Notre Dame/JINA Participation Group, Johns Hopkins University, Lawrence Berkeley National Laboratory, Max Planck Institute for Astrophysics, Max Planck Institute for Extraterrestrial Physics, New Mexico State University, New York University, Ohio State University, Pennsylvania State University, University of Portsmouth, Princeton University, the Spanish Participation Group, University of Tokyo, University of Utah, Vanderbilt University, University of Virginia, University of Washington, and Yale University.
 
 
+Institutions
+--
 
+        [1] Institut Utinam, CNRS UMR 6213, Universit\'e de Franche-Comt\'e, OSU THETA Franche-Comt\'e-Bourgogne, Observatoire de Besan\c{c}on, BP 1615, 25010 Besan\c{c}on Cedex, France.
+        [2] Instituto de Astronom\'ia, Universidad Nacional Aut\'onoma de M\'exico, Apdo. Postal 70264, M\'exico D.F., 04510, Mexico.
+        [3] Astrophysics Research Institute, Liverpool John Moores University, 146 Brownlow Hill, Liverpool, L3 5RF, United Kingdom.
+        [4] Department of Astronomy, University of Virginia, P.O. Box 400325, Charlottesville, VA 22904-4325, USA.
+        [5] Centro de Investigaciones de Astronom\'ia, AP 264, M\'erida 5101-A, Venezuela.
+        [6] Dept. of Physics and Astronomy, Johns Hopkins University, Baltimore, MD 21210, USA.
+        [7] Instituto de Astrof\'isica de Canarias, E-38205 La Laguna, Tenerife, Spain.
+        [8] Departamento de Astrof\'isica, Universidad de La Laguna (ULL), E-38206 La Laguna, Tenerife, Spain. 
+        [9] Department of Astronomy and McDonald Observatory, The University of Texas, Austin, TX 78712, USA.
+        [10] Department of Astronomy, The Ohio State University, Columbus, OH 43210, USA.
+        [11] Department of Astronomy, University of Texas at Austin, Austin, TX 78712, USA.
+        [12] Department of Physics and Astronomy, Johns Hopkins University, Baltimore, MD 21218, USA.
+        [13] Max-Planck-Instit\"ut f\"ur Extraterrestrische Physik, Gie\ss enbachstra\ss e, 85748 Garching, Germany.
+        [14] Departamento de Ciencias Fisicas, Universidad Andres Bello, Sazie 2212, Santiago, Chile.
+        [15] Department of Astronomy, University of Virginia, Charlottesville, VA 22904-4325, USA.
