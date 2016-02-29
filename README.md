@@ -4,7 +4,7 @@ THE DISCOVERY OF AN ANOMALOUS GIANT STAR IN THE GALACTIC DISK WITH A SECONDARY P
 Authors
 --
 
-José G. Fernadez-Trincado, Annie C. Robin, E. Moreno, Ricardo P. Schiavon, Ana Elia Garcia Pérez, Katherine Vieira, Katia Cunha, Olga Zamora, C. Sneden, Jennifer A. Johnson, Matthew Shetrone, Gail Zasowski, Anibal Garcia-Hernandez, Luis Alberto Martínez Medina, Angeles Pérez-Villegas, Octavio Valenzuela, Barbara Pichardo, Céline Reylé, Andrés Meza, Jennifer Sobeck, Douglas Geisler, Friedrich Anders, Mathias Schultheis, Baitian Tang, + Apogee collaboration. `(Affiliations can be found after the acknowledgements)`
+ `(Affiliations can be found after the acknowledgements)`
 
 Status
 --
