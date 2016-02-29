@@ -3,7 +3,7 @@ THE DISCOVERY OF AN ANOMALOUS GIANT STAR IN THE GALACTIC DISK WITH A SECONDARY P
 
 Authors
 --
-J. G. Fern\'andez-Trincado$^{1}$, A. C. Robin$^{1}$, E. Moreno$^{2}$, R. P. Schiavon$^{3}$, A. E. Garc\'ia Per\'ez$^{4}$,  K. Vieira$^{5}$, K. Cunha$^{6}$,  O. Zamora$^{7, 8}$, C. Sneden$^{9}$, J. A. Johnson$^{10}$, C. Reyl\'e$^{1}$, M. Shetrone$^{11}$, G. Zasowski$^{12}$, D. A. Garc\'ia-Hern\'andez$^{7, 8}$, S. Blanco-Cuaresma$^{13}$ L. A. Martinez-Medina$^{2}$, A. P\'erez-Villegas$^{14}$, O. Valenzuela$^{2}$, B. Pichardo$^{2}$, A. Meza$^{15}$, J. Sobeck$^{16}$, D. Geisler$^{17}$, F. Anders$^{18, 19}$, M. Schultheis$^{20}$, B. Tang$^{16}$, A. Roman-Lopes$^{21}$, Apogee friends `(Affiliations can be found after the acknowledgements)`
+**J. G. Fern\'andez-Trincado**, A. C. Robin, E. Moreno, R. P. Schiavon, A. E. Garc\'ia Per\'ez,  K. Vieira, K. Cunha,  O. Zamora, C. Sneden, J. A. Johnson, C. Reyl\'e, M. Shetrone, G. Zasowski, D. A. Garc\'ia-Hern\'andez, S. Blanco-Cuaresma L. A. Martinez-Medina, A. P\'erez-Villegas, O. Valenzuela, B. Pichardo, A. Meza, J. Sobeck, D. Geisler, F. Anders, M. Schultheis, B. Tang, A. Roman-Lopes, Apogee friends `(Affiliations can be found after the acknowledgements)`
 
 Status
 --
@@ -49,24 +49,24 @@ Acknowledgements
 In collaboration with
 --
   
-  $^{1}$ Institut Utinam, CNRS UMR 6213, Universit\'e de Franche-Comt\'e, OSU THETA Franche-Comt\'e-Bourgogne, Observatoire de Besan\c{c}on, BP 1615, 25010 Besan\c{c}on Cedex, France.\\
- $^{2}$ Instituto de Astronom\'ia, Universidad Nacional Aut\'onoma de M\'exico, Apdo. Postal 70264, M\'exico D.F., 04510, Mexico.\\
- $^{3}$ Astrophysics Research Institute, Liverpool John Moores University, 146 Brownlow Hill, Liverpool, L3 5RF, United Kingdom.\\
- $^{4}$ Department of Astronomy, University of Virginia, P.O. Box 400325, Charlottesville, VA 22904-4325, USA.\\
- $^{5}$ Centro de Investigaciones de Astronom\'ia, AP 264, M\'erida 5101-A, Venezuela.\\
- $^{6}$ Dept. of Physics and Astronomy, Johns Hopkins University, Baltimore, MD 21210, USA.\\
- $^{7}$ Instituto de Astrof\'isica de Canarias, E-38205 La Laguna, Tenerife, Spain.\\
- $^{8}$ Departamento de Astrof\'isica, Universidad de La Laguna (ULL), E-38206 La Laguna, Tenerife, Spain.\\  
- $^{9}$ Department of Astronomy and McDonald Observatory, The University of Texas, Austin, TX 78712, USA.\\
- $^{10}$ Department of Astronomy, The Ohio State University, Columbus, OH 43210, USA.\\
- $^{11}$ Department of Astronomy, University of Texas at Austin, Austin, TX 78712, USA.\\
- $^{12}$Department of Physics and Astronomy, Johns Hopkins University, Baltimore, MD 21218, USA.\\ 
- $^{13}$Observatoire de Gen\`eve, Universit\'e de Gen\`eve, CH-1290 Versoix, Switzerland\\
- $^{14}$ Max-Planck-Instit\"ut f\"ur Extraterrestrische Physik, Gie\ss enbachstra\ss e, 85748 Garching, Germany.\\
- $^{15}$ Departamento de Ciencias Fisicas, Universidad Andres Bello, Sazie 2212, Santiago, Chile.\\
- $^{16}$ Department of Astronomy, University of Virginia, Charlottesville, VA 22904-4325, USA.\\
- $^{17}$ Departamento de Astronom\'ia, Universidad de Concepci\'on, Casilla 160-C, Concepci\'on, Chile.\\
- $^{18}$ Leibniz-Institut f\"ur Astrophysik Potsdam (AIP), An der Sternwarte 16, 14482, Potsdam, Germany.\\
- $^{19}$ Laborat\'orio Interinstitucional de e-Astronomia - LIneA, Rua Gal. Jos\'e Cristino 77, Rio de Janeiro, RJ - 20921-400, Brazil.\\
- $^{20}$ Observatoire de la Cote d’Azur, Laboratoire Lagrange, CNRS UMR 7923, B.P. 4229, 06304 Nice Cedex, France.\\
- $^{21}$ Departamento de F\'isica y Astronom\'ia, Universidad de la Serena, Av. Juan Cisternas 1200 Norte, La Serena, Chile.
+    [1] Institut Utinam, CNRS UMR 6213, Universit\'e de Franche-Comt\'e, OSU THETA Franche-Comt\'e-Bourgogne, Observatoire de Besan\c{c}on, BP 1615, 25010 Besan\c{c}on Cedex, France.
+    [2] Instituto de Astronom\'ia, Universidad Nacional Aut\'onoma de M\'exico, Apdo. Postal 70264, M\'exico D.F., 04510, Mexico.
+    [3] Astrophysics Research Institute, Liverpool John Moores University, 146 Brownlow Hill, Liverpool, L3 5RF, United Kingdom.
+    [4] Department of Astronomy, University of Virginia, P.O. Box 400325, Charlottesville, VA 22904-4325, USA.
+    [5] Centro de Investigaciones de Astronom\'ia, AP 264, M\'erida 5101-A, Venezuela.
+    [6] Dept. of Physics and Astronomy, Johns Hopkins University, Baltimore, MD 21210, USA.
+    [7] Instituto de Astrof\'isica de Canarias, E-38205 La Laguna, Tenerife, Spain.
+    [8] Departamento de Astrof\'isica, Universidad de La Laguna (ULL), E-38206 La Laguna, Tenerife, Spain.
+    [9] Department of Astronomy and McDonald Observatory, The University of Texas, Austin, TX 78712, USA.
+    [10] Department of Astronomy, The Ohio State University, Columbus, OH 43210, USA.
+    [11] Department of Astronomy, University of Texas at Austin, Austin, TX 78712, USA.
+    [12] Department of Physics and Astronomy, Johns Hopkins University, Baltimore, MD 21218, USA.
+    [13] Observatoire de Gen\`eve, Universit\'e de Gen\`eve, CH-1290 Versoix, Switzerland.
+    [14] Max-Planck-Instit\"ut f\"ur Extraterrestrische Physik, Gie\ss enbachstra\ss e, 85748 Garching, Germany.
+    [15] Departamento de Ciencias Fisicas, Universidad Andres Bello, Sazie 2212, Santiago, Chile.
+    [16] Department of Astronomy, University of Virginia, Charlottesville, VA 22904-4325, USA.
+    [17] Departamento de Astronom\'ia, Universidad de Concepci\'on, Casilla 160-C, Concepci\'on, Chile.
+    [18] Leibniz-Institut f\"ur Astrophysik Potsdam (AIP), An der Sternwarte 16, 14482, Potsdam, Germany.
+    [19] Laborat\'orio Interinstitucional de e-Astronomia - LIneA, Rua Gal. Jos\'e Cristino 77, Rio de Janeiro, RJ - 20921-400, Brazil.
+    [20] Observatoire de la Cote d’Azur, Laboratoire Lagrange, CNRS UMR 7923, B.P. 4229, 06304 Nice Cedex, France.
+    [21] Departamento de F\'isica y Astronom\'ia, Universidad de la Serena, Av. Juan Cisternas 1200 Norte, La Serena, Chile.
