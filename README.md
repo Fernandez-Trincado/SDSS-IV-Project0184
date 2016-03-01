@@ -3,7 +3,7 @@ THE DISCOVERY OF AN ANOMALOUS GIANT STAR IN THE GALACTIC DISK WITH A SECONDARY P
 
 Authors
 --
-**J. G. Fern\'andez-Trincado**, A. C. Robin, E. Moreno, R. P. Schiavon, A. E. Garc\'ia Per\'ez,  K. Vieira, K. Cunha,  O. Zamora, C. Sneden, J. A. Johnson, C. Reyl\'e, M. Shetrone, G. Zasowski, D. A. Garc\'ia-Hern\'andez, S. Blanco-Cuaresma L. A. Martinez-Medina, A. P\'erez-Villegas, O. Valenzuela, B. Pichardo, A. Meza, J. Sobeck, D. Geisler, F. Anders, M. Schultheis, B. Tang, A. Roman-Lopes, Apogee friends `(Affiliations can be found after the acknowledgements)`
+**J. G. Fern\'andez-Trincado**, A. C. Robin, E. Moreno, R. P. Schiavon, A. E. Garc\'ia Per\'ez,  K. Vieira, K. Cunha,  O. Zamora, C. Sneden, R. Carrera, J. A. Johnson, C. Reyl\'e, M. Shetrone, G. Zasowski, D. A. Garc\'ia-Hern\'andez, S. Blanco-Cuaresma L. A. Martinez-Medina, A. P\'erez-Villegas, O. Valenzuela, B. Pichardo, A. Meza, J. Sobeck, D. Geisler, F. Anders, M. Schultheis, B. Tang, A. Roman-Lopes, Apogee friends `(Affiliations can be found after the acknowledgements)`
 
 Status
 --
