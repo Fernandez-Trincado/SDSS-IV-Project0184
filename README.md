@@ -35,6 +35,12 @@ in an eccentric orbit ($e\sim0.53$), raising the possibility that this star in t
 In this first paper of a series.
 
 
+Orbit Projection using a Monte Carlo approach
+---
+
+![Figure2](https://github.com/Fernandez-Trincado/SDSS-IV-Project0184/blob/master/OrbitProjection.png)
+
+
 Acknowledgements
 --
 
