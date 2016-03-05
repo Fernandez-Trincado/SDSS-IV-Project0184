@@ -46,6 +46,11 @@ Orbit Projection using a Monte Carlo approach
 ![Figure2](https://github.com/Fernandez-Trincado/SDSS-IV-Project0184/blob/master/OrbitProjection.png)
 
 
+SDSS-IV-Project0184 Publications
+--
+
+* Article here ...
+
 Acknowledgements
 --
 
@@ -99,3 +104,4 @@ In collaboration with
     [19] Laborat\'orio Interinstitucional de e-Astronomia - LIneA, Rua Gal. Jos\'e Cristino 77, Rio de Janeiro, RJ - 20921-400, Brazil.
     [20] Observatoire de la Cote d’Azur, Laboratoire Lagrange, CNRS UMR 7923, B.P. 4229, 06304 Nice Cedex, France.
     [21] Departamento de F\'isica y Astronom\'ia, Universidad de la Serena, Av. Juan Cisternas 1200 Norte, La Serena, Chile.
+
