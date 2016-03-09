@@ -15,6 +15,13 @@ Status
 
 Scientific Paper in `Journal` based on SDSS Data.
 
+Galactic model
+---
+ * `Model 1:` Axisymmetric model 
+ * `Model 2:` Axisymmetric model + Prolate bar + Spiral Arms
+ * `Model 3:` Axisymmetric model + Boxy bar + Spiral Arms
+
+
 A peculiar Apogee star
 --
 Near-infrared spectrum observed by The Apache Point Observatory Galactic Evolution Experiment (APOGEE), one of four Sloan Digital Sky Survey-III (SDSS-III) experiments, and originally catalogued by 2MASS.
