@@ -3,7 +3,7 @@ DISCOVERY OF AN ANOMALOUS GIANT STAR IN THE GALACTIC DISK WITH A SECONDARY POPUL
 
 Authors
 --
-**J. G. Fernández-Trincado**, A. C. Robin1, E. Moreno, R. P. Schiavon, A. E. Garcia Perez, K. Vieira, K. Cunha, O. Zamora, C. Sneden, R. Carrera, J. A. Johnson, M. Shetrone, G. Zasowski, D. A. Garcia-Hernandez, S. R. Majewski, C. Reyle, S. Blanco-Cuaresma, L. A. Martinez-Medina, A. Perez-Villegas, O. Valenzuela, B. Pichardo, A. Meza, J. Sobeck, D. Geisler, F. Anders, M. Schultheis, B. Tang, A. Roman-Lopes, and R. E. Mennickent, Apogee friends `(Affiliations can be found after the acknowledgements)`
+**J. G. Fernández-Trincado**, A. C. Robin1, E. Moreno, R. P. Schiavon, A. E. Garcia Perez, K. Vieira, K. Cunha, O. Zamora, C. Sneden, R. Carrera, J. A. Johnson, M. Shetrone, G. Zasowski, D. A. Garcia-Hernandez, S. R. Majewski, C. Reyle, S. Blanco-Cuaresma, L. A. Martinez-Medina, A. Perez-Villegas, O. Valenzuela, B. Pichardo, A. Meza, J. Sobeck, D. Geisler, F. Anders, M. Schultheis, B. Tang, A. Roman-Lopes, R. E. Mennickent, Apogee friends `(Affiliations can be found after the acknowledgements)`
 
 Contact
 --
