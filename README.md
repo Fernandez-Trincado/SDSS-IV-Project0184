@@ -55,6 +55,8 @@ Orbit Projection using a Monte Carlo approach
 Peculiar chemical abundance
 ---
 
+**Figure 3:** Al and Mg abundances of 393 red giant stars in 10 GCs from [Meszaros et al. 2015](http://adsabs.harvard.edu/abs/2015AJ....149..153M), first generation is marked as open square symbols, and second-generation as filled square symbols. The average metallicity ([Fe/H]) is listed after the cluster name.  The black open hexagon represents to the star analysed in the present work, and the black open symbols the `Schiavon et al. 2016 (submitted)` sample.
+
 ![Figure3](https://github.com/Fernandez-Trincado/SDSS-IV-Project0184/blob/master/Figures/Figure2.png)
 
 
