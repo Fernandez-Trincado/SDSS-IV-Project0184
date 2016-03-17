@@ -31,7 +31,6 @@ Near-infrared spectrum observed by The Apache Point Observatory Galactic Evoluti
 Abstract
 ---
 
-
 We report on the first direct detection of a metal-poor giant star within the Milky Way's disk, with an extreme Mg-Al abundance seen only among globular clusters secondary population, 
 using SDSS-III/APOGEE data. This star, STAR-ID-HERE, also shows particularly atypical light-element patterns 
 not seen among Galactic disk field stars, indicating that it could have been born in a globular cluster. 
