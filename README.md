@@ -39,16 +39,7 @@ Near-infrared spectrum observed by The Apache Point Observatory Galactic Evoluti
 Abstract
 ---
 
-We report on the first direct detection of a metal-poor giant star within the Milky Way's disk, with an extreme Mg-Al abundance seen only among globular clusters secondary population, 
-using SDSS-III/APOGEE data. This star, STAR-ID-HERE, also shows particularly atypical light-element patterns 
-not seen among Galactic disk field stars, indicating that it could have been born in a globular cluster. 
-We explore several explanations, in particular studying the orbit of the star to check the probability of it being related to known globular clusters. We computed $\sim1.9\times10^{5}$ pairs of orbits for  STAR-ID-HERE and 63 globular clusters 
-with available absolute proper motions, using a Monte Carlo approach.
-We found a very low probability that  STAR-ID-HERE was ejected from those globular clusters; 
-however, we note that the best progenitor candidate to host this star is NGC5139. 
-Alternatively, our dynamical studies demonstrate that  STAR-ID-HERE 
-reaches a distance  $|Z_{max}| < 4 $ kpc from the Galactic plane and a minimum approach $R_{min}<0.62$ kpc 
-in an eccentric orbit ($e\sim0.53$), raising the possibility that this star in the disk could be associated to the recently discovered nitrogen rich population in the Galactic bulge.
+We report on the direct detection from observations obtained with the APOGEE survey of a metal-poor giant star towards the Milky Way's disk, with an extreme Mg-Al abundance seen only among the secondary population of globular clusters. This star, ID_STAR_HERE found using SDSSIII/APOGEE data also shows particularly atypical light-element patterns  not seen among Galactic disk field stars, indicating that it could have been born in a globular cluster. We explore several explanations, in particular studying the orbit of the star to check the probability of it being related to known globular clusters. We computed $\sim1.9\times10^{5}$ pairs of orbits for ID_STAR_HERE and 63 globular clusters with available absolute proper motions, using a Monte Carlo approach. We found a very low probability that ID_STAR_HERE was ejected from those globular clusters; however, we note that the best progenitor candidate to host this star could be the globular cluster $\omega$ Centauri (NGC5139). However, our dynamical studies demonstrate that ID_STAR_HERE reaches a distance  $|Z_{max}| < 4 $ kpc from the Galactic plane and a minimum approach to the Galactic center of $R_{min}<0.62$ kpc in an eccentric orbit ($e\sim0.53$), raising the possibility that this star in the disk could be associated to the recently discovered nitrogen rich population in the Galactic bulge.
 
 
 In this first paper of a series.
