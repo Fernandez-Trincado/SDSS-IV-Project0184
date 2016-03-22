@@ -21,7 +21,7 @@ Please let me know if you have any questions or suggestions: jfernandez@obs-besa
 Status
 --
 
-Scientific Paper in `Journal` based on SDSS Data.
+Scientific Paper in `ApJL Journal` based on SDSS Data.
 
 Galactic model
 ---
