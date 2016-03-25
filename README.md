@@ -5,7 +5,13 @@ Authors
 --
 **J. G. Fernández-Trincado**
 
-`AND` 
+Contact
+--
+
+Please let me know if you have any questions or suggestions: jfernandez@obs-besancon.fr and/or jfernandezt87@gmail.com
+
+Collaboration
+---
 
     A. C. Robin, E. Moreno, R. P. Schiavon, A. E. Garcia Perez, K. Vieira, K. Cunha, O. Zamora, 
     C. Sneden, R. Carrera, J. A. Johnson, M. Shetrone, G. Zasowski, D. A. Garcia-Hernandez, S. R. Majewski,
@@ -13,10 +19,6 @@ Authors
     A. Meza, J. Sobeck, D. Geisler, F. Anders, M. Schultheis, B. Tang, A. Roman-Lopes, R. E. Mennickent, 
     Apogee friends `(Affiliations can be found after the acknowledgements)`
 
-Contact
---
-
-Please let me know if you have any questions or suggestions: jfernandez@obs-besancon.fr and/or jfernandezt87@gmail.com
 
 Status
 --
