@@ -1,4 +1,4 @@
-THE DISCOVERY OF AN ANOMALOUS GIANT STAR IN THE MILKY WAY WITH A SECONDARY POPULATION ABUNDANCE PATTERN
+DISCOVERY OF A METAL-POOR FIELD GIANT WITH A GLOBULAR CLUSTER SECOND-GENERATION ABUNDANCE PATTERN
 ===
 
 Author
@@ -13,11 +13,11 @@ Please let me know if you have any questions or suggestions: jfernandez@obs-besa
 Collaboration
 ---
 
-    A. C. Robin, E. Moreno, R. P. Schiavon, A. E. Garcia Perez, K. Vieira, K. Cunha, O. Zamora, 
-    C. Sneden, R. Carrera, J. A. Johnson, M. Shetrone, G. Zasowski, D. A. Garcia-Hernandez, S. R. Majewski,
-    C. Reyle, S. Blanco-Cuaresma, L. A. Martinez-Medina, A. Perez-Villegas, O. Valenzuela, B. Pichardo, 
-    A. Meza, J. Sobeck, D. Geisler, F. Anders, M. Schultheis, B. Tang, A. Roman-Lopes, R. E. Mennickent, 
-    Apogee friends `(Affiliations can be found after the acknowledgements)`
+    A. C. Robin, E. Moreno, R. P. Schiavon, A. E. Garcia Perez, K. Vieira, K. Cunha, O. Zamora, C. Sneden,
+    R. Carrera, J. A. Johnson, M. Shetrone, G. Zasowski, D. A. Garcia-Hernandez, S. R. Majewski, C. Reyle, 
+    S. Blanco-Cuaresma, L. A. Martinez-Medina, A. Perez-Villegas, O. Valenzuela, B. Pichardo, A. Meza, 
+    Sz.~M{\'e}sz{\'a}ros, J. Sobeck, D. Geisler, F. Anders, M. Schultheis, B. Tang, A. Roman-Lopes, 
+    R. E. Mennickent, K. Pan, C. Nitschelm, F. Allard, `(Affiliations can be found after the acknowledgements)`
 
 
 Status
@@ -41,11 +41,9 @@ Near-infrared spectrum observed by The Apache Point Observatory Galactic Evoluti
 Abstract
 ---
 
-We report on the direct detection from observations obtained with the APOGEE survey of a metal-poor giant star towards the Milky Way's disk, with an extreme Mg-Al abundance seen only among the secondary population of globular clusters. This star, ID_STAR_HERE found using SDSSIII/APOGEE data also shows particularly atypical light-element patterns  not seen among Galactic disk field stars, indicating that it could have been born in a globular cluster. We explore several explanations, in particular studying the orbit of the star to check the probability of it being related to known globular clusters. We computed $\sim1.9\times10^{5}$ pairs of orbits for ID_STAR_HERE and 63 globular clusters with available absolute proper motions, using a Monte Carlo approach. We found a very low probability that ID_STAR_HERE was ejected from those globular clusters; however, we note that the best progenitor candidate to host this star could be the globular cluster $\omega$ Centauri (NGC5139). However, our dynamical studies demonstrate that ID_STAR_HERE reaches a distance  $|Z_{max}| < 4 $ kpc from the Galactic plane and a minimum approach to the Galactic center of $R_{min}<0.62$ kpc in an eccentric orbit ($e\sim0.53$), raising the possibility that this star in the disk could be associated to the recently discovered nitrogen rich population in the Galactic bulge.
+We report on the direct detection from observations obtained with the APOGEE survey of a metal- poor ([Fe/H]= −1.3) field giant star in the Milky Way, with an extreme Mg-Al abundance ([Mg/Fe]=- 0.31; [Al/Fe]=1.49) seen only among the secondary population of globular clusters. This star, `ID_STAR_HERE` found using SDSSIII/APOGEE data also shows particularly atypical light- element patterns not seen among Galactic disk field stars, indicating that it could have been born in a globular cluster. We explore several explanations, in particular studying the orbit of the star to check the probability of it being related to known globular clusters. With the use of a Monte Carlo scheme, we performed simple orbital integrations assuming the estimated distance of `ID_STAR_HERE` by spectrophotometric parallax methods and the available 6-D data of 63 globular clusters looking for close encounters in the past with a minimum distance approach within the tidal radius for each cluster. We found a very low probability that `ID_STAR_HERE` was ejected from most globu- lar clusters; but, we note that the best progenitor candidate to host this star could be the globular cluster ω Centauri (also known as NGC 5139), because, after all, the propability with ω Centauri is not negligible. However, our dynamical studies demonstrate that `ID_STAR_HERE` reaches a distance |Zmax| < 3 kpc from the Galactic plane and a minimum approach to the Galactic center of Rmin < 0.62 kpc in an eccentric (e ~ 0.53) and retrograde orbit, raising the possibility that this star has been dynamically ejected into the Milky Way disk from the halo.
 
-
-In this first paper of a series.
-
+`ID_STAR_HERE`: More details will be presented in a forthcoming publication (Fernandez-Trincado et al. 2016, submitted).
 
 Orbit Projection using a Monte Carlo approach
 ---
@@ -97,25 +95,30 @@ Acknowledgements
 In collaboration with
 --
   
-    [1] Institut Utinam, CNRS UMR 6213, Universit\'e de Franche-Comt\'e, OSU THETA Franche-Comt\'e-Bourgogne, Observatoire de Besan\c{c}on, BP 1615, 25010 Besan\c{c}on Cedex, France.
-    [2] Instituto de Astronom\'ia, Universidad Nacional Aut\'onoma de M\'exico, Apdo. Postal 70264, M\'exico D.F., 04510, Mexico.
-    [3] Astrophysics Research Institute, Liverpool John Moores University, 146 Brownlow Hill, Liverpool, L3 5RF, United Kingdom.
-    [4] Department of Astronomy, University of Virginia, P.O. Box 400325, Charlottesville, VA 22904-4325, USA.
-    [5] Centro de Investigaciones de Astronom\'ia, AP 264, M\'erida 5101-A, Venezuela.
-    [6] Dept. of Physics and Astronomy, Johns Hopkins University, Baltimore, MD 21210, USA.
-    [7] Instituto de Astrof\'isica de Canarias, E-38205 La Laguna, Tenerife, Spain.
-    [8] Departamento de Astrof\'isica, Universidad de La Laguna (ULL), E-38206 La Laguna, Tenerife, Spain.
-    [9] Department of Astronomy and McDonald Observatory, The University of Texas, Austin, TX 78712, USA.
-    [10] Department of Astronomy, The Ohio State University, Columbus, OH 43210, USA.
-    [11] Department of Astronomy, University of Texas at Austin, Austin, TX 78712, USA.
-    [12] Department of Physics and Astronomy, Johns Hopkins University, Baltimore, MD 21218, USA.
-    [13] Observatoire de Gen\`eve, Universit\'e de Gen\`eve, CH-1290 Versoix, Switzerland.
-    [14] Max-Planck-Instit\"ut f\"ur Extraterrestrische Physik, Gie\ss enbachstra\ss e, 85748 Garching, Germany.
-    [15] Departamento de Ciencias Fisicas, Universidad Andres Bello, Sazie 2212, Santiago, Chile.
-    [16] Department of Astronomy, University of Virginia, Charlottesville, VA 22904-4325, USA.
-    [17] Departamento de Astronom\'ia, Universidad de Concepci\'on, Casilla 160-C, Concepci\'on, Chile.
-    [18] Leibniz-Institut f\"ur Astrophysik Potsdam (AIP), An der Sternwarte 16, 14482, Potsdam, Germany.
-    [19] Laborat\'orio Interinstitucional de e-Astronomia - LIneA, Rua Gal. Jos\'e Cristino 77, Rio de Janeiro, RJ - 20921-400, Brazil.
-    [20] Observatoire de la Cote d’Azur, Laboratoire Lagrange, CNRS UMR 7923, B.P. 4229, 06304 Nice Cedex, France.
-    [21] Departamento de F\'isica y Astronom\'ia, Universidad de la Serena, Av. Juan Cisternas 1200 Norte, La Serena, Chile.
 
+
+
+        - Instituto de Astronom\'ia, Universidad Nacional Aut\'onoma de M\'exico, Apdo. Postal 70264, M\'exico D.F., 04510, Mexico
+        - Astrophysics Research Institute, Liverpool John Moores University, 146 Brownlow Hill, Liverpool, L3 5RF, United Kingdom
+        - Department of Astronomy, University of Virginia, P.O. Box 400325, Charlottesville, VA 22904-4325, USA
+        - Centro de Investigaciones de Astronom\'ia, AP 264, M\'erida 5101-A, Venezuela
+        - Dept. of Physics and Astronomy, Johns Hopkins University, Baltimore, MD 21210, USA
+        - Instituto de Astrof\'isica de Canarias, E-38205 La Laguna, Tenerife, Spain
+        - Departamento de Astrof\'isica, Universidad de La Laguna (ULL), E-38206 La Laguna, Tenerife, Spain
+        - Department of Astronomy and McDonald Observatory, The University of Texas, Austin, TX 78712, USA
+        - Department of Astronomy, The Ohio State University, Columbus, OH 43210, USA
+        - Department of Astronomy, University of Texas at Austin, Austin, TX 78712, USA
+        - Department of Physics and Astronomy, Johns Hopkins University, Baltimore, MD 21218, USA
+        - Observatoire de Gen\`eve, Universit\'e de Gen\`eve, CH-1290 Versoix, Switzerland
+        - Max-Planck-Instit\"ut f\"ur Extraterrestrische Physik, Gie\ss enbachstra\ss e, 85748 Garching, Germany
+        - Departamento de Ciencias Fisicas, Universidad Andres Bello, Sazie 2212, Santiago, Chile
+        - ELTE Gothard Astrophysical Observatory, H-9704 Szombathely, Szent Imre Herceg st. 112, Hungary
+        - Department of Astronomy, University of Virginia, Charlottesville, VA 22904-4325, USA
+        - Departamento de Astronom\'ia, Universidad de Concepci\'on, Casilla 160-C, Concepci\'on, Chile
+        - Leibniz-Institut f\"{u}r Astrophysik Potsdam (AIP), An der Sternwarte 16, 14482, Potsdam, Germany
+        - Laborat\'{o}rio Interinstitucional de e-Astronomia - LIneA, Rua Gal. Jos\'{e} Cristino 77, Rio de Janeiro, RJ - 20921-400, Brazil
+        - Laboratoire Lagrange (UMR7293), Universit\'{e} de Nice Sophia Antipolis, CNRS, Observatoire de la C\^{o}te d'Azur, BP 4229, 06304 Nice Cedex 4, France
+        - Departamento de F\'isica y Astronom\'ia, Universidad de la Serena, Av. Juan Cisternas 1200 Norte, La Serena, Chile
+        - Apache Point Observatory and New Mexico State University, P.O. Box 59, Sunspot, NM, 88349-0059, USA
+        - Unidad de Astronom\'ia, Facultad de Ciencias B\'asicas, Universidad de Antofagasta, 601 Avenida Angamos, Antofagasta, Chile
+        - Univ Lyon, Ens de Lyon, Univ Lyon1, CNRS, Centre de Recherche Astrophysique de Lyon UMR5574, F-69007, Lyon, France.
