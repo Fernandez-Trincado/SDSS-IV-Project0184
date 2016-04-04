@@ -17,7 +17,10 @@ Collaboration
     R. Carrera, J. A. Johnson, M. Shetrone, G. Zasowski, D. A. Garcia-Hernandez, S. R. Majewski, C. Reyle, 
     S. Blanco-Cuaresma, L. A. Martinez-Medina, A. Perez-Villegas, O. Valenzuela, B. Pichardo, A. Meza, 
     Sz.~M{\'e}sz{\'a}ros, J. Sobeck, D. Geisler, F. Anders, M. Schultheis, B. Tang, A. Roman-Lopes, 
-    R. E. Mennickent, K. Pan, C. Nitschelm, F. Allard, `(Affiliations can be found after the acknowledgements)`
+    R. E. Mennickent, K. Pan, C. Nitschelm, F. Allard, 
+    
+    
+`(Affiliations can be found after the acknowledgements)`
 
 
 Status
