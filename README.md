@@ -65,6 +65,7 @@ SDSS-IV-Project0184 Publications
 --
 
 * Article here ...
+* ![Temporal Article - Submitted](http://arxiv.org/pdf/1604.01279v1.pdf)
 
 Acknowledgements
 --
