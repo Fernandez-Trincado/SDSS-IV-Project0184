@@ -73,8 +73,7 @@ Al and Mg abundances of 393 red giant stars in 10 GCs from [Meszaros et al. 2015
 SDSS-IV-Project0184 Publications
 --
 
-* Article here ...
-* [Temporal Article - Submitted](http://arxiv.org/pdf/1604.01279v1.pdf)
+* J. G. Fernandez-Trincado, et al. 2016, ApJL, submitted, [2016arXiv160401279F](http://arxiv.org/abs/1604.01279)
 
 Acknowledgements
 --
