@@ -93,3 +93,5 @@ Acknowledgements
 
  * Acknowledgements can be found [here](https://github.com/Fernandez-Trincado/SDSS-IV-Project0184/blob/master/Acknowledgements.md)
 
+
+**© Stanford 2016 | Designed by J. G. Fernandez-Trincado. **
