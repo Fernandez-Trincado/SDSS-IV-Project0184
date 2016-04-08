@@ -1,4 +1,4 @@
-SDSS-III/APOGEE-1 (DR12) & SDSS-IV/APOGEE-2 (DR13) Survey: Project0184
+Project0184: SDSS-III/APOGEE-1 (DR12) & SDSS-IV/APOGEE-2 (DR13) Survey 
 ===
 
 Author
@@ -14,7 +14,7 @@ Please let me know if you have any questions or suggestions: jfernandez@obs-besa
     
 Affiliations can be found [here](https://github.com/Fernandez-Trincado/SDSS-IV-Project0184/blob/master/Affiliations.md)
 
-Project 1: DISCOVERY OF A METAL-POOR FIELD GIANT WITH A GLOBULAR CLUSTER SECOND-GENERATION ABUNDANCE PATTERN
+SDSS-III/APOGEE-1 (DR12) project: DISCOVERY OF A METAL-POOR FIELD GIANT WITH A GLOBULAR CLUSTER SECOND-GENERATION ABUNDANCE PATTERN
 ---
 
 Status
