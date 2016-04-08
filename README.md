@@ -1,4 +1,4 @@
-DISCOVERY OF A METAL-POOR FIELD GIANT WITH A GLOBULAR CLUSTER SECOND-GENERATION ABUNDANCE PATTERN
+SDSS-III/SDSS-IV - APOGEE-1/APOGEE-2 Survey: Project0184
 ===
 
 Author
@@ -10,6 +10,18 @@ Contact
 
 Please let me know if you have any questions or suggestions: jfernandez@obs-besancon.fr and/or jfernandezt87@gmail.com
 
+
+    
+Affiliations can be found [here](https://github.com/Fernandez-Trincado/SDSS-IV-Project0184/blob/master/Affiliations.md)
+
+Project 1: DISCOVERY OF A METAL-POOR FIELD GIANT WITH A GLOBULAR CLUSTER SECOND-GENERATION ABUNDANCE PATTERN
+---
+
+Status
+--
+
+Scientific Paper in `ApJL Journal` based on SDSS Data.
+
 Collaboration
 ---
 
@@ -19,15 +31,6 @@ Collaboration
     Sz.~M{\'e}sz{\'a}ros, J. Sobeck, D. Geisler, F. Anders, M. Schultheis, B. Tang, A. Roman-Lopes, 
     R. E. Mennickent, K. Pan, C. Nitschelm, F. Allard, 
     
-    
-Affiliations can be found [here](https://github.com/Fernandez-Trincado/SDSS-IV-Project0184/blob/master/Affiliations.md)
-
-
-Status
---
-
-Scientific Paper in `ApJL Journal` based on SDSS Data.
-
 Galactic model
 ---
  * `Model 1:` Axisymmetric model 
@@ -68,6 +71,16 @@ Peculiar chemical abundance
 Al and Mg abundances of 393 red giant stars in 10 GCs from [Meszaros et al. 2015](http://adsabs.harvard.edu/abs/2015AJ....149..153M), first generation is marked as open square symbols, and second-generation as filled square symbols. The average metallicity ([Fe/H]) is listed after the cluster name.  The black open hexagon represents to the star analysed in the present work, and the black open symbols the `Schiavon et al. 2016 (submitted)` sample.
 
 ![Figure3](https://github.com/Fernandez-Trincado/SDSS-IV-Project0184/blob/master/Figures/Figure2.png)
+
+
+
+
+Project 2: 
+---
+
+
+
+
 
 
 SDSS-IV-Project0184 Publications
