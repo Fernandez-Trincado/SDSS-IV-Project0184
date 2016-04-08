@@ -14,7 +14,7 @@ Please let me know if you have any questions or suggestions: jfernandez@obs-besa
 
 Affiliations can be found [here](https://github.com/Fernandez-Trincado/SDSS-IV-Project0184/blob/master/Affiliations.md)
 
-1 SDSS-III/APOGEE-1 (DR12) project
+Phase 1: SDSS-III/APOGEE-1 (DR12) project
 ===
 
 [`DISCOVERY OF A METAL-POOR FIELD GIANT WITH A GLOBULAR CLUSTER SECOND-GENERATION ABUNDANCE PATTERN`](http://arxiv.org/abs/1604.01279)
@@ -77,7 +77,7 @@ Al and Mg abundances of 393 red giant stars in 10 GCs from [Meszaros et al. 2015
 
 
 
-SDSS-IV/APOGEE-2 (DR13) project
+Phase 2: SDSS-IV/APOGEE-2 (DR13) project
 ===
 
 `Title here`
