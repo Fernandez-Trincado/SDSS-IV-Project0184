@@ -42,6 +42,11 @@ Spectrum
 
 The spectrum data can be found at [DR12 Science Archive Server (SAS)](http://dr12.sdss3.org/irSpectrumDetail?commiss=0&locid=4520&show_aspcap=True&apogeeid=2M16011638-1201525)
 
+MOOG v. 2016
+---
+
+We use an updated version of the LTE spectral synthesis code [MOOG](http://www.as.utexas.edu/~chris/). The new line list and MOOG v. 2016 code was made available to us by Chris Sneden. 
+
 A peculiar Apogee star
 --
 Near-infrared spectrum observed by The Apache Point Observatory Galactic Evolution Experiment (APOGEE), one of four Sloan Digital Sky Survey-III (SDSS-III) experiments, and originally catalogued by 2MASS. Figure 1, a J-H-K color compositive taken from the SIMBAD skyserver.
