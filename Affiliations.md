@@ -1,7 +1,7 @@
 Affiliations
 ---
 
-
+* Institut Utinam, CNRS UMR 6213, Université de Franche-Comté, OSU THETA Franche-Comté-Bourgogne, Observatoire de Be sançon, BP 1615, 25010 Besançon Cedex, France. 
 * Instituto de Astronom\'ia, Universidad Nacional Aut\'onoma de M\'exico, Apdo. Postal 70264, M\'exico D.F., 04510, Mexico
 * Astrophysics Research Institute, Liverpool John Moores University, 146 Brownlow Hill, Liverpool, L3 5RF, United Kingdom
 * Department of Astronomy, University of Virginia, P.O. Box 400325, Charlottesville, VA 22904-4325, USA
