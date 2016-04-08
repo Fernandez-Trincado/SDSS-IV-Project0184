@@ -1,4 +1,4 @@
-SDSS-III/SDSS-IV - APOGEE-1/APOGEE-2 Survey: Project0184
+SDSS-III/APOGEE-1 (DR12) & SDSS-IV/APOGEE-2 (DR13) Survey: Project0184
 ===
 
 Author
