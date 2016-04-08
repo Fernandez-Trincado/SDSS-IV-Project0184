@@ -12,9 +12,9 @@ Please let me know if you have any questions or suggestions: jfernandez@obs-besa
 
 Affiliations can be found [here](https://github.com/Fernandez-Trincado/SDSS-IV-Project0184/blob/master/Affiliations.md)
 
-SDSS-III/APOGEE-1 (DR12) project: 
+SDSS-III/APOGEE-1 (DR12) project
 ===
-[DISCOVERY OF A METAL-POOR FIELD GIANT WITH A GLOBULAR CLUSTER SECOND-GENERATION ABUNDANCE PATTERN](http://arxiv.org/abs/1604.01279)
+[`DISCOVERY OF A METAL-POOR FIELD GIANT WITH A GLOBULAR CLUSTER SECOND-GENERATION ABUNDANCE PATTERN`](http://arxiv.org/abs/1604.01279)
 --
 
 Status
