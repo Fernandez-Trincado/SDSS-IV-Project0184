@@ -10,12 +10,10 @@ Contact
 
 Please let me know if you have any questions or suggestions: jfernandez@obs-besancon.fr and/or jfernandezt87@gmail.com
 
-
-    
 Affiliations can be found [here](https://github.com/Fernandez-Trincado/SDSS-IV-Project0184/blob/master/Affiliations.md)
 
-SDSS-III/APOGEE-1 (DR12) project: DISCOVERY OF A METAL-POOR FIELD GIANT WITH A GLOBULAR CLUSTER SECOND-GENERATION ABUNDANCE PATTERN
----
+SDSS-III/APOGEE-1 (DR12) project: `DISCOVERY OF A METAL-POOR FIELD GIANT WITH A GLOBULAR CLUSTER SECOND-GENERATION ABUNDANCE PATTERN`
+===
 
 Status
 --
@@ -75,15 +73,15 @@ Al and Mg abundances of 393 red giant stars in 10 GCs from [Meszaros et al. 2015
 
 
 
-Project 2: 
----
+SDSS-IV/APOGEE-2 (DR13): 
+===
 
 
 
 
 
 
-SDSS-IV-Project0184 Publications
+Publications
 --
 
 * J. G. Fernandez-Trincado, et al. `DISCOVERY OF A METAL-POOR FIELD GIANT WITH A GLOBULAR CLUSTER SECOND-GENERATION ABUNDANCE PATTERN`, 2016, ApJL, submitted, [2016arXiv160401279F](http://arxiv.org/abs/1604.01279)
