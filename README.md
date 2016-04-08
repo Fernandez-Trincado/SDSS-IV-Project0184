@@ -37,6 +37,11 @@ Galactic model
  * `Model 3:` Axisymmetric model + Boxy bar + Spiral Arms
     * [DATA](https://raw.githubusercontent.com/Fernandez-Trincado/SDSS-IV-Project0184/master/dat.nax3.bsup.KinPec.en2016.gauss.1) 
 
+Spectrum
+---
+
+The spectrum data can be found at [DR12 Science Archive Server (SAS)](http://dr12.sdss3.org/irSpectrumDetail?commiss=0&locid=4520&show_aspcap=True&apogeeid=2M16011638-1201525)
+
 A peculiar Apogee star
 --
 Near-infrared spectrum observed by The Apache Point Observatory Galactic Evolution Experiment (APOGEE), one of four Sloan Digital Sky Survey-III (SDSS-III) experiments, and originally catalogued by 2MASS. Figure 1, a J-H-K color compositive taken from the SIMBAD skyserver.
