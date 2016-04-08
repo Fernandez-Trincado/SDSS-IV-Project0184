@@ -20,7 +20,7 @@ Collaboration
     R. E. Mennickent, K. Pan, C. Nitschelm, F. Allard, 
     
     
-Affiliations can be found at: [Affiliations](https://github.com/Fernandez-Trincado/SDSS-IV-Project0184/blob/master/Affiliations.md)
+Affiliations can be found [here](https://github.com/Fernandez-Trincado/SDSS-IV-Project0184/blob/master/Affiliations.md)
 
 
 Status
