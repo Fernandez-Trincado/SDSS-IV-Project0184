@@ -69,5 +69,5 @@ SDSS-IV-Project0184 Publications
 Acknowledgements
 --
 
- * Acknowledgements can be found at [Acknowledgements](https://github.com/Fernandez-Trincado/SDSS-IV-Project0184/blob/master/Acknowledgements.md)
+ * Acknowledgements can be found [here](https://github.com/Fernandez-Trincado/SDSS-IV-Project0184/blob/master/Acknowledgements.md)
 
