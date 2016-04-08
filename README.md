@@ -31,9 +31,11 @@ Scientific Paper in `ApJL Journal` based on SDSS Data.
 Galactic model
 ---
  * `Model 1:` Axisymmetric model 
+    * [DATA](https://github.com/Fernandez-Trincado/SDSS-IV-Project0184/blob/master/dat.ax.bprol.KinPec.en2016.gauss.1) 
  * `Model 2:` Axisymmetric model + Prolate bar + Spiral Arms
+    * [DATA](https://github.com/Fernandez-Trincado/SDSS-IV-Project0184/blob/master/dat.nax3.bprol.KinPec.en2016.gauss.1) 
  * `Model 3:` Axisymmetric model + Boxy bar + Spiral Arms
-
+    * [DATA](https://github.com/Fernandez-Trincado/SDSS-IV-Project0184/blob/master/dat.nax3.bsup.KinPec.en2016.gauss.1) 
 
 A peculiar Apogee star
 --
