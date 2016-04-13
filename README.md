@@ -74,7 +74,7 @@ Al and Mg abundances of 393 red giant stars in 10 GCs from [Meszaros et al. 2015
 
 ![Figure3](https://github.com/Fernandez-Trincado/SDSS-IV-Project0184/blob/master/Figures/Figure2.png)
 
-
+![Figure4](https://github.com/Fernandez-Trincado/SDSS-IV-Project0184/blob/master/Figures/PeculiarStarResonance.png)
 
 
 Phase 2: SDSS-IV/APOGEE-2 (DR13) project
